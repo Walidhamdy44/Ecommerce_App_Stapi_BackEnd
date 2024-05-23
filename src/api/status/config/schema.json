@@ -1,0 +1,11 @@
+{
+  "collectionName": "status",
+  "info": {
+    "name": "status",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {}
+}
