@@ -1,0 +1,10 @@
+[
+  {
+    "method": "GET",
+    "path": "/status",
+    "handler": "status.index",
+    "config": {
+      "policies": []
+    }
+  }
+]
